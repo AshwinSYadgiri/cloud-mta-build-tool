@@ -1,4 +1,4 @@
-FROM openjdk:11-jdk-slim
+FROM openjdk:8-jdk-slim
 
 # Build time variables
 ARG MTA_USER_HOME=/home/mta
